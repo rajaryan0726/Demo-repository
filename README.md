@@ -1,2 +1,3 @@
 # Demo-repository
-this is the demo repository i am building for the understanding of the concept of the git and github from very scratch
+this is the demo repository i am building for the understanding of the concept of the git and github from very scratch 
+commiting the 1st : myself rajaryan verma commiting the change in the readme file 
